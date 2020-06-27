@@ -1,4 +1,4 @@
-What's good? Welcome to my blog. I hope you will explore the fresh and challenging projects I have been working on. Come on in! You can include images:
+So glad to have you here, welcome! I hope you will explore the fresh and challenging projects I have been working on. You can include images:
 
 ![Image of fast.ai logo](images/logo.png)
 
